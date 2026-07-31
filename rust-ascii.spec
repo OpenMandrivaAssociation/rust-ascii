@@ -5,8 +5,8 @@
 %global crate ascii
 
 Name:           rust-%{crate}
-Version:        1.0.0
-Release:        2%{?dist}
+Version:        1.1.0
+Release:        1%{?dist}
 Summary:        ASCII-only equivalents to `char`, `str` and `String`
 
 # Upstream license specification: Apache-2.0 / MIT
